@@ -5,7 +5,7 @@ This is the translator for the SpaceScript language it is free and easy to use a
 <body>
 <space-script>
   </space-script>
-  <script src="./SpaceScript Minor Functions.js"></script>
-  <script src="./SpaceScript works.js"></script><!--In This Order-->
+  <script src="SpaceScript Minor Functions.js"></script>
+  <script src="SpaceScript works.js"></script><!--In This Order-->
 </body>
 </html>
